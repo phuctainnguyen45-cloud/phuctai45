@@ -1,1 +1,53 @@
 
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="utf-8">
+    <title>Ngành Y</title>
+    <link rel="stylesheet" href="../style.css">
+</head>
+
+<body>
+    <h1>NGÀNH Y – NGHỀ NGHIỆP TƯƠNG LAI</h1>
+
+    <ol type="A" class="f1">
+        <li>
+            GIỚI THIỆU NGÀNH Y
+            <ul class="f2">
+                <li>Ngành y chăm sóc và bảo vệ sức khỏe con người</li>
+                <li>Đóng vai trò quan trọng trong xã hội</li>
+                <li>Luôn được tôn trọng và tin cậy</li>
+            </ul>
+        </li>
+
+        <li>
+            CÁC NGHỀ NGHIỆP TRONG NGÀNH Y
+            <ul class="f2">
+                <li>Bác sĩ</li>
+                <li>Điều dưỡng</li>
+                <li>Dược sĩ</li>
+                <li>Kỹ thuật viên y tế</li>
+            </ul>
+        </li>
+
+        <li>
+            PHẨM CHẤT CẦN CÓ
+            <ul class="f2">
+                <li>Lòng nhân ái và trách nhiệm</li>
+                <li>Kiên nhẫn, cẩn thận</li>
+                <li>Chịu được áp lực công việc</li>
+                <li>Không ngừng học tập nâng cao chuyên môn</li>
+            </ul>
+        </li>
+
+        <li>
+            CƠ HỘI NGHỀ NGHIỆP
+            <ul class="f2">
+                <li>Làm việc tại bệnh viện, phòng khám</li>
+                <li>Làm việc trong các trung tâm y tế</li>
+                <li>Cơ hội phát triển nghề nghiệp ổn định</li>
+            </ul>
+        </li>
+    </ol>
+</body>
+</html>
