@@ -3,54 +3,47 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Ngành Y</title>
-    <link rel="stylesheet" href="../style.css">
+    <title>Nghề nghiệp tương lai</title>
+    <link rel="stylesheet" href="style.css">
 </head>
 
 <body>
-    <main>
-        <h1>NGÀNH Y – NGHỀ NGHIỆP TƯƠNG LAI</h1>
+    <h1>NGHỀ NGHIỆP TƯƠNG LAI CỦA EM</h1>
 
-        <ol type="A" class="f1">
-            <li>
-                <strong>GIỚI THIỆU NGÀNH Y</strong>
-                <ul class="f2">
-                    <li>Ngành y chăm sóc và bảo vệ sức khỏe con người</li>
-                    <li>Đóng vai trò quan trọng trong xã hội</li>
-                    <li>Luôn được tôn trọng và tin cậy</li>
-                </ul>
-            </li>
+    <h2>1. Giới thiệu</h2>
+    <p>
+        Trong tương lai, em mong muốn trở thành một người làm việc trong lĩnh vực
+        công nghệ thông tin. Đây là ngành nghề quan trọng và có nhiều cơ hội phát triển
+        trong thời đại số.
+    </p>
 
-            <li>
-                <strong>CÁC NGHỀ NGHIỆP TRONG NGÀNH Y</strong>
-                <ul class="f2">
-                    <li>Bác sĩ</li>
-                    <li>Điều dưỡng</li>
-                    <li>Dược sĩ</li>
-                    <li>Kỹ thuật viên y tế</li>
-                </ul>
-            </li>
+    <h2>2. Nghề nghiệp em lựa chọn</h2>
+    <p>
+        Nghề nghiệp tương lai của em là <strong>Lập trình viên</strong>.
+        Lập trình viên là người tạo ra các phần mềm, trang web và ứng dụng
+        phục vụ cho học tập, công việc và cuộc sống.
+    </p>
 
-            <li>
-                <strong>PHẨM CHẤT CẦN CÓ</strong>
-                <ul class="f2">
-                    <li>Lòng nhân ái và trách nhiệm</li>
-                    <li>Kiên nhẫn, cẩn thận</li>
-                    <li>Chịu được áp lực công việc</li>
-                    <li>Không ngừng học tập nâng cao chuyên môn</li>
-                </ul>
-            </li>
+    <h2>3. Lý do em chọn nghề này</h2>
+    <ul>
+        <li>Phù hợp với sở thích công nghệ</li>
+        <li>Có nhiều cơ hội việc làm</li>
+        <li>Thu nhập ổn định</li>
+        <li>Có thể làm việc sáng tạo</li>
+    </ul>
 
-            <li>
-                <strong>CƠ HỘI NGHỀ NGHIỆP</strong>
-                <ul class="f2">
-                    <li>Làm việc tại bệnh viện, phòng khám</li>
-                    <li>Làm việc trong các trung tâm y tế</li>
-                    <li>Cơ hội phát triển nghề nghiệp ổn định</li>
-                </ul>
-            </li>
-        </ol>
-    </main>
+    <h2>4. Phẩm chất cần có</h2>
+    <ul>
+        <li>Chăm chỉ, kiên trì</li>
+        <li>Ham học hỏi</li>
+        <li>Tư duy logic</li>
+        <li>Biết làm việc nhóm</li>
+    </ul>
+
+    <h2>5. Kết luận</h2>
+    <p>
+        Để đạt được ước mơ nghề nghiệp trong tương lai, em sẽ cố gắng học tập tốt,
+        rèn luyện kỹ năng và không ngừng trau dồi kiến thức.
+    </p>
 </body>
 </html>
-
